@@ -10,7 +10,7 @@ k_eff_on = 2.03 W/K
 
 k_eff_off = 0.056 W/K
 
-thermal mass: silicon/polymer properties; rho ~ 1600 kg/m^3, cp ~ 450 J/kg/K (insufficient data; value is estimated)
+Thermal mass: silicon/polymer properties; rho ~ 1600 kg/m^3, cp ~ 450 J/kg/K (insufficient data; value is estimated)
 
 off state: kOff = 5.09 W/m/K, rhoOff = 1600 kg/m3, cpOff = 450 J/kg/K
 on state: kOn = 184.54 W/m/K, rhoOn = 1600 kg/m3, cpOn = 450 J/kg/K

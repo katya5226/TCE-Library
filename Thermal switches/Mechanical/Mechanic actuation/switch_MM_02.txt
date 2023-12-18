@@ -5,10 +5,13 @@ Mechanical mechanic Switch
 Switching time: 13 ms
 
 Dimension: 2.3 mm
+Area: approx. 225 cm^2
 
 k_eff_on = 0.75 W/K
 
 k_eff_off = 0.028 W/K
+
+Actuation power: approx. 20 W (800 W/m^3)
 
 thermal mass: silicon/air properties; rho ~ 1500 kg/m^3, cp ~ 900 J/kg/K (insufficient data; value is estimated)
 

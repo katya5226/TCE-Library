@@ -1,0 +1,26 @@
+Fluidic with phase change
+Shinozaki et al. (2014) doi: 10.2322/tastj.12.Po_4_7
+
+Device has a mass of 660 g, height of 53 mm, and outer diameter of 62 mm. The PCM is paraffin wax.
+
+Length = 53 mm
+
+Switching time: ~minutes
+
+Density = 4125 kg/m^3
+
+k_eff_on = 0.86 W/K  (16.2 W/m/K)
+
+k_eff_off = 0.007 W/K  (0.132 W/m/K)
+
+SR = 120
+
+Temperature range of phase transition: 319 K - 336 K
+
+Operating range: unknown
+
+Below 319 K: Off state; above 336 K: On state
+
+cp: 2200 J/kg/K (Google)
+Enthalpy of phase transition: ~ 200 kJ/kg (Google)
+

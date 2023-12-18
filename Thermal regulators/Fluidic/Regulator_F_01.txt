@@ -5,7 +5,7 @@ Device is a 10 nm thick layered MoS2 crystal, prepared on SiO2 (90 nm) on p-type
 An 80 nm Al layer patterned on top of the MoS2 serves as an electrical contact and
 as opto-thermal transducer for TDTR measurements.
 
-Thickness = 10 nm
+Thickness = 10 nm + 90 nm + 80 nm
 
 k_eff = 1.6 – 16 MW/m^2/K
 
