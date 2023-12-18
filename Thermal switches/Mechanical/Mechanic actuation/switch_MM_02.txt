@@ -1,0 +1,17 @@
+Source: Wang et al. (2017), doi: 10.1109/JMEMS.2017.2676704
+
+Mechanical mechanic Switch
+
+Switching time: 13 ms
+
+Dimension: 2.3 mm
+
+k_eff_on = 0.75 W/K
+
+k_eff_off = 0.028 W/K
+
+thermal mass: silicon/air properties; rho ~ 1500 kg/m^3, cp ~ 900 J/kg/K (insufficient data; value is estimated)
+
+off state: kOff = 1.217 W/m/K, rhoOff = 1500 kg/m3, cpOff = 900 J/kg/K
+on state: kOn = 32.6 W/m/K, rhoOn = 1500 kg/m3, cpOn = 900 J/kg/K
+operating range: 254-353 K

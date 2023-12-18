@@ -1,0 +1,21 @@
+Source: Yang et al.(2018) https://doi.org/10.1063/1.5013623
+Fluidic Mechanic Switch
+
+Temperature range: 254 K – 353 K
+
+Input work: 3 W in on state, 1 W in off state. 
+
+Switching time: 0.1 s
+
+Dimension (1d, length) : 50 mm
+
+k_eff_on = 0.526 W/K
+
+k_eff_off = 6.3 e^-3 W/K
+
+1M/L  NaOH solution was used, so for off state, thermal mass (rho*cp) of water will be considered.
+In on state, thermal mass of galinstan will be considered. rho = 6440 kg/m3, cp = 296 J/kg/K (source: Google).
+
+
+off state: kOff = 0.126 W/m/K, rhoOff = 1000 kg/m3, cpOff = 4184 J/kg/K
+on state: kOn = 10.52 W/m/K, rhoOn = 6440 kg/m3, cpOn = 296 J/kg/K

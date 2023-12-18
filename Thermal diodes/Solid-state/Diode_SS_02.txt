@@ -1,0 +1,10 @@
+Garcia-Garcia and Alvarez- Quintana (2014) doi: 10.1016/j.ijthermalsci.2014.03.004
+
+Diode_NiTi-Graphite
+
+forward direction: nitinol->graphite
+NiTi length: 2 mm
+graphite length: 2 mm
+ideal operating range: 290-450 K
+
+Rectification factor: 1.47

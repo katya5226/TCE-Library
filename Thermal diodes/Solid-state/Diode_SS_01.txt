@@ -1,0 +1,8 @@
+Kobayashi et al. (2009) doi: 10.1063/1.3253712
+
+Diode_LSCO-LCO 
+forward direction: LSCO->LCO
+LSCO length: 6.1 mm, LCO length: 6.3 mm
+ideal operating range: 40-99 K
+
+Rectification factor: 1.43
