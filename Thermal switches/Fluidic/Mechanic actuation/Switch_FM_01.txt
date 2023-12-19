@@ -7,7 +7,9 @@ Input work: 3 W in on state, 1 W in off state.
 
 Switching time: 0.1 s
 
-Dimension (1d, length) : 50 mm
+Dimension (1d, length): 50 mm
+
+Cross section in the direction of heat flux: approx. 2x10^-4 m^2
 
 k_eff_on = 0.526 W/K
 
