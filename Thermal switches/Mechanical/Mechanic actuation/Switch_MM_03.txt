@@ -1,0 +1,16 @@
+Jeong et al., 2011 J. Micromech. Microeng. 21 085018, doi: 10.1016/j.applthermaleng.2012.01.050
+
+The exact dimensions are not known but we estimate that the thickness of the switch should be a few cm.
+
+Operating range is estimated to be 273-373 K.
+
+k_eff_On ~ 0.6 W/m/K (Water; estimated)
+k_eff_Off ~ 0.06 W/m/K (Air + water; estimated)
+
+Thermal resistivity can be tuned.
+
+Response time is probably a few seconds.
+
+Actuation input power unknown.
+
+Effective density and specific heat capacity unknown. The values of 1000 kg/m^3 and 1000 J/kg/K will be used.

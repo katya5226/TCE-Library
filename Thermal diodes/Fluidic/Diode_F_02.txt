@@ -1,0 +1,15 @@
+Gaddam et al., International Journal of Heat and Mass Transfer 106 (2017) 741–744, doi: 10.1016/j.ijheatmasstransfer.2016.09.071
+
+The diode was contained in a square 5 mm x 5 mm glass tube that was 20 mm long in the direction of the heat ?ux and had a 1.0 mm wall thickness.
+
+Rectification factor is between ~1 at temperature bias of 30 K and ~1.4 at temperature bias of 50 K.
+
+Operating range: 283 - 333 K
+
+k_forward ~ 6 W/m/K
+k_reverse ~ 2.5 W/m/K
+
+The response time is probably around 1 s.
+
+Effective density: ~13700 kg/m^3
+Effective specific heat capacity: ~140 kg/m^3

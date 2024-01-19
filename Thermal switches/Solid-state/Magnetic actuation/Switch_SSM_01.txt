@@ -1,0 +1,20 @@
+Bartlett et al., Cryogenics 50 (2010) 647–652, doi: 10.1016/j.cryogenics.2010.02.027
+
+The switching time is limited only by the time taken to magnetise or demagnetise the magnet. ~ 0.1 s
+
+MEasurements of thermal conductivity: The key dimensions of the thermal path are a square cross section A of 1.5 mm x 1.5 mm and an effective path length of L = 0.43 m.
+In order for the vacuum brazed joint of sample 1 to not in?uence the measurements the thermometers and heater were mounted on one
+layer of the tungsten giving an effective path length of L = 9.4 mm.
+
+The "On" thermal conductivity of sample 1 is 48.3 kW/mK at 4.26 K, and 14.4 kW/mK at 1.50 K.
+
+Switching ratio is ~10000
+
+Applied magnetic field in the Off state: 1.8 T
+Thus we estimate the consumed power of ~ 1600 W (https://theemcshop.com/emc-test-equipment/emc-antennas/magnetic-field-coils/elmag20a-air-gap-electromagnet-up-to-2-2-tesla/ on 18/01/24)
+
+For the modelling within TCCbuilder, we propose a switch of thickness 5 mm and effective conductivity of 30 W/m/K in "On" state
+and effective conductivity of 0.003 W/m/K in "Off" state, with the operating range between 2 and 4 K.
+
+Tungsten density at RT: 19200 kg/m^3 (https://trc.nist.gov/MetalsAlloyUI/ on 19/01/24) 
+Tungsten specific heat capacity at 2.5 K: 0.02 J/kg/K (https://trc.nist.gov/MetalsAlloyUI/ on 19/01/24)
