@@ -11,6 +11,8 @@ Actuation: 86 MV/m in On state; power input unknown
 
 Operating range: 300-500 K
 
+Response time is probably very short.
+
 Effective density and specific heat capacity taken for BaTiO3
 Density = 6020 kg/m^3  (https://en.wikipedia.org/wiki/Barium_titanate on 19/01/24)
 Specific heat capacity = 439 J/kg/K (Y.S. Touloukian, E.H. Buyco (Ed.), Thermophysical Properties of Matter, vol. 5, Specific Heat: Nonmetallic Solids, IFI/Plenum Press, New York, 1970.)
