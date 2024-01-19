@@ -1,15 +1,17 @@
 Almanza et al. Appl. Phys. Lett. 112, 083901 (2018) doi: 10.1063/1.5009618
 
 Device dimensions: thickness in off state is approximately 1.5 mm
-Working  approx. 29 cm^2.
+Working  area approx. 29 cm^2.
 
 External stimuli: the current through the film is around 300 mA, the voltage actuation is 100 V.
 So we estimate the input power to be a few Watts. ~10W
 
-k_On ~ 3x10^-5 W/mK
-k_Off ~ 0.003 W/mK
+k_Off ~ 3x10^-5 W/mK
+k_On ~ 0.003 W/mK
 
 Operation range: Unknown, probably around RT
+
+Response time: ~1s
 
 Effective density: ~730 kg/m^3
 Effective specific heat capacity: ~920 J/kg/K
